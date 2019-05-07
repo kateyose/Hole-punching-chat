@@ -12,7 +12,7 @@
 #define NPACK 10
 #define PORT 6868
 
-#define SRV_IP "18.219.227.14"
+#define SRV_IP "18.225.5.21"
 static int s;
 struct client {
   int host;
